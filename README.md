@@ -1,4 +1,4 @@
-# R Project
+# A study of the impact of carbon dioxide emissions on climate and society using the R language
 
 This is a program written with the help of R and RMarkdown, which investigates the relationship between CO2 emissions and climate, diseases, and socio-economic indicators.
 
